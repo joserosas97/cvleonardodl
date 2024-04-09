@@ -1,0 +1,28 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#headerindex {
+    background-image: url("img/pexels-luis-gomes-546819.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+
+footer p{
+    text-align: center;
+}
+
+.portafolio{
+    margin-top: 7rem;
+}
+
+form{
+    margin-top: 7rem;
+}
+
+form h1{
+    text-align: center;
+}
